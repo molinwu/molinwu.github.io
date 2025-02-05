@@ -24,18 +24,22 @@ My research interest mainly lies in computer architecture, system, security or a
 I never stop myself from learning and exploring new. I'm eager for an internship opportunity to improve myself.
 
 
-
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022, 2023* First Class Academic Scholarship, University of Chinese Academy of Sciences
+- *2023, 2024* Outstanding Student Cadre, University of Chinese Academy of Sciences
+- *2022, 2023, 2024* Merit Student, University of Chinese Academy of Sciences
+- *2023* Third Prize of the Chinese Mathematics Competitions
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - Present* Undergraduate in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences.
+- *2025.01 - Present* Exchange Student in Computer Science, University of Califonia, Berkeley.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 👩 Teaching Experiences
+- Peer Assistant, University of Chinese Academy of Sciences
+  - Jan. 2023 - Present
+- Teaching Assistant for Computer Organization Lab, University of Chinese Academy of Sciences
+  - Jan. 2025 - Present
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.09 - Present*, advised by [Fei Sun](https://github.com/), China.
