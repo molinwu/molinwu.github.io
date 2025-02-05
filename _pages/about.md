@@ -42,4 +42,4 @@ I never stop myself from learning and exploring new. I'm eager for an internship
 
 
 # 💻 Internships
-- *2024.09 - Present*, advised by [Fei Sun](https://github.com/), China.
+- *2024.09 - Present*, advised by [Fei Sun](https://ofey.me/), China.
