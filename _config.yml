@@ -23,12 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Molin Wu"
   avatar           : "images/myphoto.jpg"
-  bio              : "A CS student at UCAS"
+  bio              : 
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : "wumolin22@mails.ucas.ac.cn"
+  CV               : "docs/CV.pdf"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
